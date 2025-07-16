@@ -20,7 +20,7 @@ This Arduino package is based on the excellent work of the original Micro Sui SD
 
 ### Method 2: Manual Installation
 
-1. Download the latest release from the [releases page](https://github.com/Emmybrown775/microsui-arduino)
+1. Download the latest release from the [releases page](https://github.com/Emmybrown775/microsui-arduino/releases)
 2. Extract the ZIP file
 3. Copy the extracted folder to your Arduino libraries directory:
    - **Windows**: `Documents\Arduino\libraries\`
