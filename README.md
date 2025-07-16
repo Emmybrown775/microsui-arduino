@@ -11,14 +11,7 @@ This Arduino package is based on the excellent work of the original Micro Sui SD
 
 ## Installation
 
-### Method 1: Arduino Library Manager (Recommended)
-
-1. Open Arduino IDE
-2. Go to **Sketch** → **Include Library** → **Manage Libraries**
-3. Search for "Micro Sui SDK"
-4. Click **Install**
-
-### Method 2: Manual Installation
+### Method 1: Manual Installation
 
 1. Download the latest release from the [releases page](https://github.com/Emmybrown775/microsui-arduino/releases)
 2. Extract the ZIP file
@@ -28,7 +21,7 @@ This Arduino package is based on the excellent work of the original Micro Sui SD
    - **Linux**: `~/Arduino/libraries/`
 4. Restart Arduino IDE
 
-### Method 3: Git Clone
+### Method 2: Git Clone
 
 ```bash
 cd ~/Documents/Arduino/libraries/
